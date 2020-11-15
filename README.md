@@ -7,9 +7,9 @@
 ```
 
 
-<a href="#english">english</a> <a href="#fa">فارسی</a>
+<center> <a href="#english">english</a>    <a href="#fa">فارسی</a> </center>
 
-## Run first, then go to the following address
+## <div id="english" >Run first, then go to the following address </div>
 127.0.0.1:8080
 <br>
 or
@@ -22,7 +22,6 @@ localhost:8080
 ##CSS In ktor
 127.0.0.1:8080/styles.css
 
-#فارسی
 <div id="fa" dir="rtl">
 ## بعد اجرا به یکی از ادرس های زیر بروید 
 </div>
