@@ -20,5 +20,5 @@ localhost:8080
 ## HTML In ktor
 127.0.0.1:8080/html-dsl
 
-##CSS In ktor
+## CSS In ktor
 127.0.0.1:8080/styles.css
