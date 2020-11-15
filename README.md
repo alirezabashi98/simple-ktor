@@ -8,7 +8,7 @@
 
 ##  Run first, then go to the following address
 <div id="fa" dir="rtl">
-## بعد اجرا به یکی از ادرس های زیر بروید 
+##  بعد اجرا به یکی از ادرس های زیر بروید 
 </div>
 127.0.0.1:8080
 <br>
